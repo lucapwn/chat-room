@@ -7,12 +7,12 @@ Chat room developed in C language using sockets.
 
 ## Content
 
-  - [About](#about)
-  - [Support](#support)
-  - [Running](#running)
-  - [Screenshot](#screenshot)
-  - [Author](#author)
-  - [License](#license)
+- [About](#about)
+- [Support](#support)
+- [Running](#running)
+- [Screenshot](#screenshot)
+- [Author](#author)
+- [License](#license)
 
 ## About
 
@@ -24,7 +24,7 @@ The system is still under development and other features will be included later.
 
 The software is currently only available for the GNU/Linux operating system.
 
-In the near future, I will include support for the Windows operating system.
+In the near future I will include support for the Windows operating system and macOS.
 
 ## Running
 
