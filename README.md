@@ -1,6 +1,6 @@
 # Chat Room
 
-Chat room developed in C language using sockets.
+The [Chat Room](https://github.com/lucapwn/chat-room) is a software developed in C language using sockets to create a chat room between a server and clients.
 
 ![Badge](https://img.shields.io/static/v1?label=license&message=MIT&color=1E90FF)
 ![Badge](https://img.shields.io/static/v1?label=build&message=passing&color=00d110)
