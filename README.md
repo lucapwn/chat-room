@@ -50,7 +50,7 @@ foo@bar:~$ ./client 127.0.0.1 80
 
 The image below illustrates the software running and the server communicating with two clients.
 
-![](https://lh3.googleusercontent.com/u/1/drive-viewer/AFDK6gOSMGhAxuyTlltznMSWgAG-woMgk28-0HAxLAVirI_aMMiYCMIolVdbgZznlTpeNQzCsBoz-ECfqYxqSqIIPhftCwIf8g=w1920-h947)
+![](https://user-images.githubusercontent.com/58787069/216812354-3f4aa4f9-e8e6-4f15-9310-9c9b72f64c4a.PNG)
 
 ## Author
 
